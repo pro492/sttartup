@@ -1,0 +1,2 @@
+# sttartup
+need aseprite
